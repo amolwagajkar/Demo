@@ -1,0 +1,41 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/viewContactsToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size40"
+        android:background="@color/white">
+
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/users"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/size20" />
+
+
+                <ImageView
+                    android:id="@+id/ivSearchIcon"
+                    android:layout_width="@dimen/size25"
+                    android:layout_height="@dimen/size25"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginEnd="@dimen/size16"
+                    android:src="@drawable/ic_search" />
+
+            </RelativeLayout>
+
+
+        </Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+</merge>

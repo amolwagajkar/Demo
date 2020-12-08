@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="eighty_percent_black">#ff464646</color>
+    <color name="fifty_percent_black">#ff939597</color>
+    <color name="ten_percent_black">#ffe6e7e8</color>
+    <color name="grayLight">#d3d3d3</color>
+</resources>

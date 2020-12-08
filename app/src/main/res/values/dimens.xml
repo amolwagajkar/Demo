@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size0">0dp</dimen>
+    <dimen name="size1">1dp</dimen>
+    <dimen name="size2">2dp</dimen>
+    <dimen name="size3">3dp</dimen>
+    <dimen name="size4">4dp</dimen>
+    <dimen name="size5">5dp</dimen>
+    <dimen name="size8">8dp</dimen>
+    <dimen name="size10">10dp</dimen>
+    <dimen name="size12">12dp</dimen>
+    <dimen name="size14">14dp</dimen>
+    <dimen name="size16">16dp</dimen>
+    <dimen name="size18">18dp</dimen>
+    <dimen name="size20">20dp</dimen>
+    <dimen name="size24">24dp</dimen>
+    <dimen name="size32">32dp</dimen>
+    <dimen name="size40">40dp</dimen>
+    <dimen name="avatar_size">64dp</dimen>
+    <dimen name="size25">25dp</dimen>
+
+    <!--TEXT SIZES-->
+    <dimen name="large_font">18sp</dimen>
+    <dimen name="normal_font">14sp</dimen>
+    <dimen name="small_font">12sp</dimen>
+
+</resources>
